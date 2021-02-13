@@ -31,7 +31,7 @@ body {
     position: relative;
     margin: 1rem;
     flex: 0.5;
-    transition: flex 1s ease-in;
+    transition: flex .8s ease-in;
 }
 
 .box.active {
@@ -56,9 +56,10 @@ body {
     font-weight: 100;
     color: #fff;
     opacity: 0;
+    cursor: pointer;
 }
 
 .box.active .box__title {
     opacity: 1;
-    transition: opacity .2s ease-in 0.4s;
+    transition: opacity .4s ease-in 0.4s;
 }
