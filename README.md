@@ -1,7 +1,3 @@
-### Expanding Cards
+# Expanding Cards
 ## Simple JavaScript projects
-Tools:
-HTML
-CSS
-JavaScript
-Visual Studio Code
+Tools: HTML, CSS, JavaScript, Visual Studio Code
